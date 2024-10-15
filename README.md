@@ -43,6 +43,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Santa-28/Santa-28/output/snake.svg" alt="Snake animation" />
 
 ###
