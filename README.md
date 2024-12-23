@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://muthuram.site](https://muthuram.site)
+- 👨‍💻 All of my projects are available at [https://santa.site](https://santa.site)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **smuthuram05@gmail.com**
+- 📫 How to reach me **saravanakumarcm1212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
