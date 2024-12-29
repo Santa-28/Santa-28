@@ -16,8 +16,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/saravana-kumar28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravana-kumar28" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26544252/saravanakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19670847" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/saravanasurya282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mr032495" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mr032495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mr032495" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/saravanasurya282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sk28" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/saravanakumar2828/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saravanakumar2828" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
